@@ -35,8 +35,8 @@ Aqui estão as redes sociais que eu atualmente uso ou possuo:
 
  Aqui estão um pouco dos meus hobbies, algo que gosto para passar o tempo e talz.
  Curto joga um pouco, jogos como RPG's, tiros, casuais, geralmente jogos para desestressar ou relaxar, um jogo que gosto bastante é sea of thieves.
- Assito tambem bastante filmes(prefencialmente no cinema) e algumas series.
- De vez em nunca gosto tambem de le um livro, e tomar um cafe.
+ Assisto tambem bastante filmes(prefencialmente no cinema) e algumas series.
+ De vez em nunca gosto tambem de le um livro ou escrever enredos ou estudar algo relacionado a roteiros de livros ou/e historia, e tomar um cafe.
   
  ## Itens uteis
 
