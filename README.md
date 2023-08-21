@@ -7,12 +7,10 @@ Bem, eu não sei criar um README. Para dizer a verdade, eu não sei nem o que es
 - [Sobre mim](#sobre-mim)
     - [interesses](#interesses)
     - [redes sociais](#redes-sociais)
+    - [hobbie](#hobby)
 - [links](#itens-uteis)
     - [Front-end](#front-end)
-- [Projetos](#projetos)
-    - [Finalizados](#finalizados)
-    - [Em andamento](#em-andamento)
-    - [Planejados](#planejados)
+
 
 ## Sobre mim
 
@@ -32,6 +30,13 @@ Aqui estão as redes sociais que eu atualmente uso ou possuo:
 - reddit - [u/Yoyatsu](https://www.reddit.com/user/Yoyatsu)
 - Frontend Mentor - [Joash](https://www.frontendmentor.io/profile/joashneves)
 - Itch.io - [JoashNeves](https://joashneves.itch.io)
+
+ ### Hobby
+
+ Aqui estão um pouco dos meus hobbies, algo que gosto para passar o tempo e talz.
+ Curto joga um pouco, jogos como RPG's, tiros, casuais, geralmente jogos para desestressar ou relaxar, um jogo que gosto bastante é sea of thieves.
+ Assito tambem bastante filmes(prefencialmente no cinema) e algumas series.
+ De vez em nunca gosto tambem de le um livro, e tomar um cafe.
   
  ## Itens uteis
 
@@ -46,27 +51,4 @@ Alguns links que julgo util ou interressante, vai que vocês gostem.
           - [Flaticon](https://www.flaticon.com/free-icons/content)
  - Figma - [Figma](https://www.figma.com/)
 
-## Projetos
- 
- - Algumas ideias iniciais de projetos futuros ou ja feitos, algo para me organiza e mostrar o que estou pensando.
-  
-**Não sei se é bom ficar atualizando então pode ser que eu apague essa parte**
 
-### Finalizados 
-
-- Ainda não terminei nenhum projeto :P
-
-### Em andamento
-
-- Termina de programar meu jogo:
-    - Faltam termina os niveis
-    - Melhorar os sprites
-    - colocar sons
-- ChatBot
-    - Começo
-
-### Planejados
-
-- Bot do discord versão.2
-- site que conversa com Bot, e ChatBot
-- Blog
