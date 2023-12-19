@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://media.discordapp.net/attachments/1058880199414005852/1186798766175555604/jakezinho.png?ex=65948f7b&is=65821a7b&hm=9b2bccd219654a2086dcbaacde94e15d067aea804411e04ec09feb5a249e1855&=&format=webp&quality=lossless" align="center" style="width: 50%" />
-</div>  
-  
 
 ### <div align="center">Ola Mundo!😉</div>  
   
@@ -81,8 +77,6 @@
 <br/>  
 
 <br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=joasplays&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=e700eb&bar_color_cover=true" /></div>  
 
 <br/>  
 
