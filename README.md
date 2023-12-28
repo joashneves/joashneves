@@ -8,7 +8,7 @@
 - 📖 Atualmente estou cursando analise de sistemas e nas horas vagas sempre lendo algo sobre programação  
   
 
-- ❓ Curto joga um pouco, jogos como RPG's, tiros, casuais, geralmente jogos para desestressar ou relaxar, um jogo que gosto bastante é sea of thieves. Assisto também bastante filmes(presencialmente no cinema) e algumas series. De vez em nunca gosto também de lê um livro ou escrever enredos ou estudar algo relacionado a roteiros de livros ou/e historia, e tomar um café.  
+- ❓ Curto joga um pouco, jogos, geralmente jogos para desestressar ou relaxar. Assisto também bastante filmes(preferencialmente no cinema) e algumas series. De vez em nunca gosto também de lê um livro ou escrever enredos ou estudar algo relacionado a roteiros de livros ou/e historia, e tomar um café.  
   
 
 - ⚡ Fato curioso: Isso na verdade é um pássaro ":V"  
