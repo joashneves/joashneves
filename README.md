@@ -4,14 +4,14 @@ console.log("hello world");
 > Seja bem vindo ao meu github, assim como todo mundo utilizo esse espaço da grande web para guardar e exibir meus projetos, tanto em desenvolvimento ou finalizado... ~e umas coisas que não veem ao caso~
 
 <details><summary>Sobre mim</summary>
-  Se quer saber um pouco sobre mim, tenho 21 anos, e estudo na faculdade Multivix, cursando o curso de Analise e desenvolvimento de sistema
+  Se quer saber um pouco sobre mim, tenho 21 anos, e estudo na faculdade Multivix, cursando o curso de Análise e Desenvolvimento de Sistemas
 
-No tempo livre quando não estou estudando algo de programação, estou jogando, lendo, ou vendo algum filme, ou vendo doctor who, amo essa serie</details>
+No tempo livre quando não estou estudando algo de programação, estou jogando, lendo, ou vendo algum filme, ou vendo Doctor Who. Amo essa série.</details>
 
-<details><summary> Competencias </summary>
+<details><summary> Competências </summary>
 Aqui guardo tudo que sei que eu conheço bem, consigo mexer, e executar normalmente.
 
-### Linguegens
+### linguagens
 - Javascript
 - Python
 - C#
@@ -26,7 +26,7 @@ Aqui guardo tudo que sei que eu conheço bem, consigo mexer, e executar normalme
 </details>
 <details><summary> Andamento </summary>
 
-Aqui guardo todas as linguagens e ferramentas que estou estudando/apredendo, o que tenho curiosidade em aprender
+Aqui guardo todas as linguagens e ferramentas que estou estudando/aprendendo, o que tenho curiosidade de aprender
 
 ### linguagens
 - [ ] Rust
