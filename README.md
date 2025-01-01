@@ -1,5 +1,5 @@
 ```javascript
-console.log("hello world);
+console.log("hello world");
 ```
 > Seja bem vindo ao meu github, assim como todo mundo utilizo esse espaço da grande web para guardar e exibir meus projetos, tanto em desenvolvimento ou finalizado... ~e umas coisas que não veem ao caso~
 
