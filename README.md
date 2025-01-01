@@ -1,82 +1,62 @@
+```javascript
+console.log("hello world);
+```
+> Seja bem vindo ao meu github, assim como todo mundo utilizo esse espaço da grande web para guardar e exibir meus projetos, tanto em desenvolvimento ou finalizado... ~e umas coisas que não veem ao caso~
 
-### <div align="center">Ola Mundo!😉</div>  
-  
+<details><summary>Sobre mim</summary>
+  Se quer saber um pouco sobre mim, tenho 21 anos, e estudo na faculdade Multivix, cursando o curso de Analise e desenvolvimento de sistema
 
-- 🧐Então, se você está aqui, provavelmente já me conhece, mas para aqueles que não me conhecem, meu nome é apenas Joás, sim, ele não tem H; eu coloco para ter um charme.  
-  
+No tempo livre quando não estou estudando algo de programação, estou jogando, lendo, ou vendo algum filme, ou vendo doctor who, amo essa serie</details>
 
-- 📖 Atualmente estou cursando analise de sistemas e nas horas vagas sempre lendo algo sobre programação  
-  
+<details><summary> Competencias </summary>
+Aqui guardo tudo que sei que eu conheço bem, consigo mexer, e executar normalmente.
 
-- ❓ Curto joga um pouco, jogos, geralmente jogos para desestressar ou relaxar. Assisto também bastante filmes(preferencialmente no cinema) e algumas series. De vez em nunca gosto também de lê um livro ou escrever enredos ou estudar algo relacionado a roteiros de livros ou/e historia, e tomar um café.  
-  
+### Linguegens
+- Javascript
+- Python
+- C#
 
-- ⚡ Fato curioso: Isso na verdade é um pássaro ":V"  
-  
+### Ferramentas
+- git e github
+- Figma
+- node
+- react
+- GameMaker 2
 
-<br/>  
+</details>
+<details><summary> Andamento </summary>
 
+Aqui guardo todas as linguagens e ferramentas que estou estudando/apredendo, o que tenho curiosidade em aprender
 
-##  <div align="center">Habilidades</div>
-<table align="center"><tr><td valign="top" width="33%">
+### linguagens
+- [ ] Rust
+- [ ] Ruby
+- [ ] Assembly (um dia esse sai)
 
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+</details>
+
+<details><summary>Estatísticas para nerds</summary>
+
+<div align='center'>
+<a href="https://github.com/joashneves">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joashneves&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joashneves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-</tr></table>  
+</details>
 
-<br/>  
+<details><summary> Sociais </summary>
 
-
-##  <div align="center">Conecte comigo</div>
-<div align="center">
-<a href="https://github.com/joashneves" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/OYoyatsu" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/joas-neves-b8340a290/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/joashneves/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@jjoash_" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+> "nunca seja cruel, nunca seja covarde... Lembre-se: O ódio é sempre tolo e o amor é sempre sábio. Sempre tente ser bom, mas nunca falhe em ser gentil" - Decimo segundo doutor
 
 
-##  <div align="center">Github Stats  </div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=joashneves&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align='center'>
 
-<br/>  
+[Bluesky](https://bsky.app/profile/joashneves.me) 
+|
+[Instagram](https://www.instagram.com/joashneves)
+|
+[Steam](https://steamcommunity.com/id/yoyatsu/)
+</div>
 
-<br/>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=joashneves&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</details>
