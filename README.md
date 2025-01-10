@@ -39,7 +39,7 @@ Aqui guardo todas as linguagens e ferramentas que estou estudando/aprendendo, o 
 
 <div align='center'>
 <a href="https://github.com/joashneves">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joashneves&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joashneves&layout=compact&langs_count=7&theme=aura"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joashneves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </div>
