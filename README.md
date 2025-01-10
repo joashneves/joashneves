@@ -39,8 +39,10 @@ Aqui guardo todas as linguagens e ferramentas que estou estudando/aprendendo, o 
 
 <div align='center'>
 <a href="https://github.com/joashneves">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joashneves&layout=compact&langs_count=7&theme=aura"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joashneves&layout=donut&langs_count=7&theme=aura"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joashneves&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joashneves)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 </div>
 
