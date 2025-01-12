@@ -55,6 +55,8 @@ Aqui guardo todas as linguagens e ferramentas que estou estudando/aprendendo, o 
 
 <div align='center'>
 
+[Linkedin](https://www.linkedin.com/in/joas-neves-b8340a290/)
+|
 [Bluesky](https://bsky.app/profile/joashneves.me) 
 |
 [Instagram](https://www.instagram.com/joashneves)
