@@ -9,20 +9,18 @@ console.log("hello world");
 No tempo livre quando não estou estudando algo de programação, estou jogando, lendo, ou vendo algum filme, ou vendo Doctor Who. Amo essa série.</details>
 
 <details><summary> Competências </summary>
-Aqui guardo tudo que sei que eu conheço bem, consigo mexer, e executar normalmente.
+  
+```javascript
+// Aqui guardo tudo que sei que eu conheço bem, consigo mexer, e executar normalmente.
 
-### linguagens
-- Javascript
-- Python
-- C#
-
-### Ferramentas
-- git e github
-- Figma
-- node
-- react
-- GameMaker 2
-
+const joashneves = {
+  code: [Javascript, HTML, CSS, C#, Python],
+  tools: [React, Node, git e github, Figma, GameMaker 2],
+  architecture: ["API", "Desenvolvimento de jogos"],
+ challenge: "Constantes desafios a mim mesmo"
+}
+```
+  
 </details>
 <details><summary> Andamento </summary>
 
