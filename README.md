@@ -25,23 +25,15 @@ const joashneves = {
 <details><summary> Andamento </summary>
 
 Aqui guardo todas as linguagens e ferramentas que estou estudando/aprendendo, o que tenho curiosidade de aprender
-Os marcados são os que estou estudando, e os [ ] puros são que ainda não comecei
-
-<details><summary> linguagens </summary>
-  # linguagens
+<div align='center'>
   
-  - [x] C/C++
-  - [ ] Rust
-  - [ ] Ruby
-  - [ ] Assembly (um dia esse sai)
-</details>
-<details><summary> Ferramentas </summary>
-  # Ferramentas
+|Prefixo|Motivação|Desenvolvimento|Aplicação|Porcentagem|
+| --- | --- | --- | --- | --- |
+| C/C++ | Aprender a mais profunda camada da programação | Aprendir o basico | Repositorio | 20% |
+| Rust | Querer fazer Apis mais robustas e outras aplicações | Comecei um pouco | [Repositorio](https://github.com/joashneves/repositoryTests/tree/master/lang/testandoRust-master) | 10%
+| CI/CD | Desenvolver não só aplicações mais seguras, mas construir uma arquitetura melhor em volta dela | Estudando | Joashneves.me | 40%
   
-  - [x] Github actions
-  - [x] CI/CD
-  - [x] jest
-</details>
+</div>
 </details>
 
 <details><summary>Estatísticas para nerds</summary>
