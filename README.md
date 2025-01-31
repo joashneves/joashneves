@@ -27,12 +27,23 @@ Aqui guardo tudo que sei que eu conheço bem, consigo mexer, e executar normalme
 <details><summary> Andamento </summary>
 
 Aqui guardo todas as linguagens e ferramentas que estou estudando/aprendendo, o que tenho curiosidade de aprender
+Os marcados são os que estou estudando, e os [ ] puros são que ainda não comecei
 
-### linguagens
-- [ ] Rust
-- [ ] Ruby
-- [ ] Assembly (um dia esse sai)
-
+<details><summary> linguagens </summary>
+  # linguagens
+  
+  - [x] C/C++
+  - [ ] Rust
+  - [ ] Ruby
+  - [ ] Assembly (um dia esse sai)
+</details>
+<details><summary> Ferramentas </summary>
+  # Ferramentas
+  
+  - [x] Github actions
+  - [x] CI/CD
+  - [x] jest
+</details>
 </details>
 
 <details><summary>Estatísticas para nerds</summary>
@@ -41,9 +52,16 @@ Aqui guardo todas as linguagens e ferramentas que estou estudando/aprendendo, o 
 <a href="https://github.com/joashneves">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joashneves&layout=donut&langs_count=7&theme=aura"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joashneves&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  
+  <details><summary> Extra </summary>
+    
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joashneves)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/joashneves/joashneves/blob/output/github-contribution-grid-snake.svg)
+
+</details>
+
 </a>
+
 </div>
 
 </details>
@@ -55,6 +73,8 @@ Aqui guardo todas as linguagens e ferramentas que estou estudando/aprendendo, o 
 
 <div align='center'>
 
+[webSite](https://www.joashneves.me/)
+|
 [Linkedin](https://www.linkedin.com/in/joas-neves-b8340a290/)
 |
 [Bluesky](https://bsky.app/profile/joashneves.me) 
@@ -62,7 +82,14 @@ Aqui guardo todas as linguagens e ferramentas que estou estudando/aprendendo, o 
 [Instagram](https://www.instagram.com/joashneves)
 |
 [Steam](https://steamcommunity.com/id/yoyatsu/)
+|
+[Tabnews](https://www.tabnews.com.br/joashneves)
+|
+[Devto](https://dev.to/joashneves)
+|
+[Buy me coffee](https://buymeacoffee.com/joashneves)
+|
+[Servidor do Discord](https://discord.gg/h7mP7aZuY4)
 
 </div>
-
 </details>
