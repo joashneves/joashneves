@@ -56,6 +56,7 @@ Os marcados são os que estou estudando, e os [ ] puros são que ainda não come
     
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joashneves)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/joashneves/joashneves/blob/output/github-snake-dark.svg)
 
 </details>
 
@@ -92,5 +93,3 @@ Os marcados são os que estou estudando, e os [ ] puros são que ainda não come
 
 </div>
 </details>
-
-![Snake animation](https://github.com/joashneves/joashneves/blob/output/github-contribution-grid-snake.svg)
