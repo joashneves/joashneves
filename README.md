@@ -67,7 +67,7 @@ Aqui guardo todas as linguagens e ferramentas que estou estudando/aprendendo, o 
 
 [webSite](https://www.joashneves.me/)
 |
-[Linkedin](https://www.linkedin.com/in/joas-neves-b8340a290/)
+[Linkedin](https://www.linkedin.com/in/joasneves/)
 |
 [Bluesky](https://bsky.app/profile/joashneves.me) 
 |
