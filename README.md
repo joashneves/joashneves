@@ -27,11 +27,9 @@ const joashneves = {
 Aqui guardo todas as linguagens e ferramentas que estou estudando/aprendendo, o que tenho curiosidade de aprender
 <div align='center'>
   
-|Prefixo|Motivação|Desenvolvimento|Aplicação|Porcentagem|
+|Projetos|Motivação|Desenvolvimento|Aplicação|Porcentagem|
 | --- | --- | --- | --- | --- |
-| C/C++ | Aprender a mais profunda camada da programação | Aprendir o basico | Repositorio | 20% |
-| Rust | Querer fazer Apis mais robustas e outras aplicações | Comecei um pouco | [Repositorio](https://github.com/joashneves/repositoryTests/tree/master/lang/testandoRust-master) | 10%
-| CI/CD | Desenvolver não só aplicações mais seguras, mas construir uma arquitetura melhor em volta dela | Estudando | Joashneves.me | 40%
+|Guia do mochileiro da web|Construir um repositorio no qual tem o objetivo de reunir varias dicas de estudo, projetos e tutoriais|Escrevendo a estrutura| Repositorio | 1% |
   
 </div>
 </details>
