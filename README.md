@@ -4,7 +4,7 @@ console.log("hello world");
 > Seja bem vindo ao meu github, assim como todo mundo utilizo esse espaço da grande web para guardar e exibir meus projetos, tanto em desenvolvimento ou finalizado... ~e umas coisas que não veem ao caso~
 
 <details><summary>Sobre mim</summary>
-  Se quer saber um pouco sobre mim, tenho 21 anos, e estudo na faculdade Multivix, cursando o curso de Análise e Desenvolvimento de Sistemas
+  Se quer saber um pouco sobre mim, tenho 22 anos, e estudo na faculdade Multivix, cursando o curso de Análise e Desenvolvimento de Sistemas
 
 No tempo livre quando não estou estudando algo de programação, estou jogando, lendo, ou vendo algum filme, ou vendo Doctor Who. Amo essa série.</details>
 
