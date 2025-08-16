@@ -22,17 +22,6 @@ const joashneves = {
 ```
   
 </details>
-<details><summary> Andamento </summary>
-
-Aqui guardo todas as linguagens e ferramentas que estou estudando/aprendendo, o que tenho curiosidade de aprender
-<div align='center'>
-  
-|Projetos|Motivação|Desenvolvimento|Aplicação|Porcentagem|
-| --- | --- | --- | --- | --- |
-|Guia do mochileiro da web|Construir um repositorio no qual tem o objetivo de reunir varias dicas de estudo, projetos e tutoriais|Escrevendo a estrutura| Repositorio | 1% |
-  
-</div>
-</details>
 
 <details><summary>Estatísticas para nerds</summary>
 
@@ -83,3 +72,4 @@ Aqui guardo todas as linguagens e ferramentas que estou estudando/aprendendo, o 
 
 </div>
 </details>
+
