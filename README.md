@@ -10,3 +10,5 @@ console.log("Ola mundo!");
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=joashneves&theme=aura&bg_color=20232a&hide_border=true" width="100%"/>
   
 ![Snake animation](https://github.com/joashneves/joashneves/blob/output/github-snake-dark.svg)
+
+</div>
