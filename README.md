@@ -1,7 +1,7 @@
 ```javascript
 console.log("Ola mundo!");
 ```
-> "nunca seja cruel, nunca seja covarde... Lembre-se: O ódio é sempre tolo e o amor é sempre sábio. Sempre tente ser bom, mas nunca falhe em ser gentil" - Decimo segundo doutor
+> "Tudo tem um preço, e vc responder no whatsapp também pois o trabalho do luiz é importante e quero acabar logo"
 
 <div align='center'>
 <a href="https://github.com/joashneves">
@@ -12,3 +12,4 @@ console.log("Ola mundo!");
 ![Snake animation](https://github.com/joashneves/joashneves/blob/output/github-snake-dark.svg)
 
 </div>
+
